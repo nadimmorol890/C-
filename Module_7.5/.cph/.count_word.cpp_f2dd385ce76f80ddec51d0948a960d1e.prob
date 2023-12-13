@@ -1,0 +1,1 @@
+{"name":"Local: count_word","url":"f:\\Phitron\\C++\\Module_7.5\\count_word.cpp","tests":[{"id":1700746589024,"input":"Sanju Samson shamanta samson jessica Bhatta Asif John takla john abraham john baby Shark tank \njohn","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\C++\\Module_7.5\\count_word.cpp","group":"local","local":true}
